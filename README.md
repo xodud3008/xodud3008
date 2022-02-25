@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello~ I'm Taeyoung want to be a generalist 👋
 
 <!--
 **xodud3008/xodud3008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
