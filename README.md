@@ -1,4 +1,4 @@
-### Hello~ I'm Taeyoung want to be a generalist 👋
+### Hello~ I'm Taeyoung want to be a POLYMATH 👋
 
 <!--
 **xodud3008/xodud3008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,3 +27,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=jQuery&logoColor=white" />
+
+###  :mailbox: Contact
+<a href="mailto:xodud3008@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logoGmail&logoColor=white" ></a>
