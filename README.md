@@ -30,3 +30,5 @@ Here are some ideas to get you started:
 
 ###  :mailbox: Contact
 <a href="mailto:xodud3008@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logoGmail&logoColor=white" ></a>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=xodud3008&show_icons=true&theme=radical)
