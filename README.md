@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-###  :books: Studying
+<div align='center'>
 
-<p align ="center">
+### :books: Studying
+
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
@@ -28,10 +29,12 @@ Here are some ideas to get you started:
 
 
 
-###  :mailbox: Contact
+### :mailbox: Contact
 <a href="mailto:xodud3008@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" ></a> 
 <a href="https://discord.gg/kakaogg"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white&link=discord.gg/kakaogg" /></a>
 <a href="https://xodud3008.github.io"><img src="https://img.shields.io/badge/GitHubBlog-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://xodud3008.github.io" /></a>
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=xodud3008&show_icons=true&theme=radical)
+
+</div>
