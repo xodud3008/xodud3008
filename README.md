@@ -34,7 +34,6 @@ Here are some ideas to get you started:
 <a href="https://discord.gg/kakaogg"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white&link=discord.gg/kakaogg" /></a>
 <a href="https://xodud3008.github.io"><img src="https://img.shields.io/badge/GitHubBlog-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://xodud3008.github.io" /></a>
 
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=xodud3008&show_icons=true&theme=radical)
 
 </div>
